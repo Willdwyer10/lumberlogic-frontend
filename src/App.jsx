@@ -243,7 +243,7 @@ export default function LumberLogic() {
           <div className="text-center flex-1">
             <h1 className="text-4xl font-bold text-amber-900 mb-2 flex items-center justify-center gap-3">
               <Scissors className="w-10 h-10" />
-              LumberLogic
+              LumberLogic<sup className="text-lg">™</sup>
             </h1>
             <p className="text-amber-700">Optimize your lumber cuts and minimize waste</p>
           </div>
